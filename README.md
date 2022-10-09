@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13294](https://github.com/azerothcore/azerothcore-wotlk/issues/13294) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 💪 Opened PR [#13304](https://github.com/azerothcore/azerothcore-wotlk/pull/13304) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. ❗️ Closed issue [#13301](https://github.com/azerothcore/azerothcore-wotlk/issues/13301) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#13301](https://github.com/azerothcore/azerothcore-wotlk/issues/13301) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. ❌ Closed PR [#13297](https://github.com/azerothcore/azerothcore-wotlk/pull/13297) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🗣 Commented on [#1](https://github.com/Kitzunu/azerothcore-exitcode-script/issues/1) in [Kitzunu/azerothcore-exitcode-script](https://github.com/Kitzunu/azerothcore-exitcode-script)
+2. 🎉 Merged PR [#1](https://github.com/Kitzunu/azerothcore-exitcode-script/pull/1) in [Kitzunu/azerothcore-exitcode-script](https://github.com/Kitzunu/azerothcore-exitcode-script)
+3. 🗣 Commented on [#13294](https://github.com/azerothcore/azerothcore-wotlk/issues/13294) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 💪 Opened PR [#13304](https://github.com/azerothcore/azerothcore-wotlk/pull/13304) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. ❗️ Closed issue [#13301](https://github.com/azerothcore/azerothcore-wotlk/issues/13301) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
