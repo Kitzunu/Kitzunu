@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/azerothcore/mod-eluna/pull/97) in [azerothcore/mod-eluna](https://github.com/azerothcore/mod-eluna)
-2. 🎉 Merged PR [#15026](https://github.com/azerothcore/azerothcore-wotlk/pull/15026) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#15026](https://github.com/azerothcore/azerothcore-wotlk/issues/15026) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 💪 Opened PR [#97](https://github.com/azerothcore/mod-eluna/pull/97) in [azerothcore/mod-eluna](https://github.com/azerothcore/mod-eluna)
-5. 🗣 Commented on [#15026](https://github.com/azerothcore/azerothcore-wotlk/issues/15026) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 💪 Opened PR [#15059](https://github.com/azerothcore/azerothcore-wotlk/pull/15059) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🎉 Merged PR [#97](https://github.com/azerothcore/mod-eluna/pull/97) in [azerothcore/mod-eluna](https://github.com/azerothcore/mod-eluna)
+3. 🎉 Merged PR [#15026](https://github.com/azerothcore/azerothcore-wotlk/pull/15026) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#15026](https://github.com/azerothcore/azerothcore-wotlk/issues/15026) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 💪 Opened PR [#97](https://github.com/azerothcore/mod-eluna/pull/97) in [azerothcore/mod-eluna](https://github.com/azerothcore/mod-eluna)
 <!--END_SECTION:activity-->
