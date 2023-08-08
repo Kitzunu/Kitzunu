@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16948](https://github.com/azerothcore/azerothcore-wotlk/pull/16948) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#16939](https://github.com/azerothcore/azerothcore-wotlk/pull/16939#issuecomment-1668220984) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#16942](https://github.com/azerothcore/azerothcore-wotlk/issues/16942#issuecomment-1667847908) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#16942](https://github.com/azerothcore/azerothcore-wotlk/issues/16942#issuecomment-1667832258) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 💪 Opened PR [#16943](https://github.com/azerothcore/azerothcore-wotlk/pull/16943) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🔒 Closed issue [#16952](https://github.com/azerothcore/azerothcore-wotlk/issues/16952) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 💪 Opened PR [#16948](https://github.com/azerothcore/azerothcore-wotlk/pull/16948) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#16939](https://github.com/azerothcore/azerothcore-wotlk/pull/16939#issuecomment-1668220984) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#16942](https://github.com/azerothcore/azerothcore-wotlk/issues/16942#issuecomment-1667847908) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#16942](https://github.com/azerothcore/azerothcore-wotlk/issues/16942#issuecomment-1667832258) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
