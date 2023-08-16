@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17016](https://github.com/azerothcore/azerothcore-wotlk/issues/17016) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#17016](https://github.com/azerothcore/azerothcore-wotlk/issues/17016#issuecomment-1679755975) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#17014](https://github.com/azerothcore/azerothcore-wotlk/issues/17014#issuecomment-1679518134) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#17014](https://github.com/azerothcore/azerothcore-wotlk/issues/17014#issuecomment-1679175233) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🗣 Commented on [#17014](https://github.com/azerothcore/azerothcore-wotlk/issues/17014#issuecomment-1679166796) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🗣 Commented on [#17021](https://github.com/azerothcore/azerothcore-wotlk/pull/17021#issuecomment-1681175027) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🔒 Closed issue [#17016](https://github.com/azerothcore/azerothcore-wotlk/issues/17016) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#17016](https://github.com/azerothcore/azerothcore-wotlk/issues/17016#issuecomment-1679755975) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#17014](https://github.com/azerothcore/azerothcore-wotlk/issues/17014#issuecomment-1679518134) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#17014](https://github.com/azerothcore/azerothcore-wotlk/issues/17014#issuecomment-1679175233) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
