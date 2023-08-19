@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17031](https://github.com/azerothcore/azerothcore-wotlk/pull/17031#issuecomment-1685081091) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#17031](https://github.com/azerothcore/azerothcore-wotlk/pull/17031#issuecomment-1685080061) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🎉 Merged PR [#17019](https://github.com/azerothcore/azerothcore-wotlk/pull/17019) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#15218](https://github.com/azerothcore/azerothcore-wotlk/pull/15218#issuecomment-1685043207) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🗣 Commented on [#17031](https://github.com/azerothcore/azerothcore-wotlk/pull/17031#issuecomment-1685042253) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🗣 Commented on [#16898](https://github.com/azerothcore/azerothcore-wotlk/pull/16898#issuecomment-1685111336) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🗣 Commented on [#17022](https://github.com/azerothcore/azerothcore-wotlk/pull/17022#issuecomment-1685106271) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🔒 Closed issue [#15474](https://github.com/azerothcore/azerothcore-wotlk/issues/15474) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🔒 Closed issue [#17029](https://github.com/azerothcore/azerothcore-wotlk/issues/17029) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🎉 Merged PR [#17032](https://github.com/azerothcore/azerothcore-wotlk/pull/17032) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
