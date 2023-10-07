@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17441](https://github.com/azerothcore/azerothcore-wotlk/issues/17441) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#17441](https://github.com/azerothcore/azerothcore-wotlk/issues/17441#issuecomment-1751662929) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🔒 Closed issue [#17440](https://github.com/azerothcore/azerothcore-wotlk/issues/17440) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#17434](https://github.com/azerothcore/azerothcore-wotlk/issues/17434#issuecomment-1751211351) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. ❌ Closed PR [#17426](https://github.com/azerothcore/azerothcore-wotlk/pull/17426) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🗣 Commented on [#15919](https://github.com/azerothcore/azerothcore-wotlk/pull/15919#issuecomment-1751674291) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🔒 Closed issue [#17441](https://github.com/azerothcore/azerothcore-wotlk/issues/17441) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#17441](https://github.com/azerothcore/azerothcore-wotlk/issues/17441#issuecomment-1751662929) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🔒 Closed issue [#17440](https://github.com/azerothcore/azerothcore-wotlk/issues/17440) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#17434](https://github.com/azerothcore/azerothcore-wotlk/issues/17434#issuecomment-1751211351) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
