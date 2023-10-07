@@ -17,9 +17,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17439](https://github.com/azerothcore/azerothcore-wotlk/issues/17439#issuecomment-1751685446) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#15919](https://github.com/azerothcore/azerothcore-wotlk/pull/15919#issuecomment-1751674291) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🔒 Closed issue [#17441](https://github.com/azerothcore/azerothcore-wotlk/issues/17441) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#17441](https://github.com/azerothcore/azerothcore-wotlk/issues/17441#issuecomment-1751662929) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🔒 Closed issue [#17440](https://github.com/azerothcore/azerothcore-wotlk/issues/17440) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 💪 Opened PR [#17447](https://github.com/azerothcore/azerothcore-wotlk/pull/17447) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🗣 Commented on [#1](https://github.com/heyitsbench/blizzlike-teles/issues/1#issuecomment-1751824123) in [heyitsbench/blizzlike-teles](https://github.com/heyitsbench/blizzlike-teles)
+3. 🗣 Commented on [#17409](https://github.com/azerothcore/azerothcore-wotlk/pull/17409#issuecomment-1751823149) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#17409](https://github.com/azerothcore/azerothcore-wotlk/pull/17409#issuecomment-1751821140) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#17419](https://github.com/azerothcore/azerothcore-wotlk/pull/17419#issuecomment-1751820354) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
