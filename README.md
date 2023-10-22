@@ -3,6 +3,9 @@
 <!--<a href="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark" />
 </a>-->
+
+[![Kitzunu's Github stats](https://github-readme-stats.vercel.app/api?username=kitzunu&theme=github_dark&show_icons=true)](https://github.com/Kitzunu)
+
 <a href="https://github-readme-stats.kitzunu.vercel.app/api?username=Kitzunu&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitzunu&layout=compact&theme=dark" />
 </a>
