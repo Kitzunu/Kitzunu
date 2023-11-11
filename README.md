@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17661](https://github.com/azerothcore/azerothcore-wotlk/pull/17661) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#17645](https://github.com/azerothcore/azerothcore-wotlk/pull/17645#issuecomment-1804464042) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#17603](https://github.com/azerothcore/azerothcore-wotlk/pull/17603#issuecomment-1802933559) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#17603](https://github.com/azerothcore/azerothcore-wotlk/pull/17603#issuecomment-1802915607) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🗣 Commented on [#17603](https://github.com/azerothcore/azerothcore-wotlk/pull/17603#issuecomment-1802893862) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🗣 Commented on [#17679](https://github.com/azerothcore/azerothcore-wotlk/issues/17679#issuecomment-1806876998) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🔒 Closed issue [#17679](https://github.com/azerothcore/azerothcore-wotlk/issues/17679) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🎉 Merged PR [#17661](https://github.com/azerothcore/azerothcore-wotlk/pull/17661) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#17645](https://github.com/azerothcore/azerothcore-wotlk/pull/17645#issuecomment-1804464042) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#17603](https://github.com/azerothcore/azerothcore-wotlk/pull/17603#issuecomment-1802933559) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
