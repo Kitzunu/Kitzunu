@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17682](https://github.com/azerothcore/azerothcore-wotlk/pull/17682#issuecomment-1806938870) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#17682](https://github.com/azerothcore/azerothcore-wotlk/pull/17682#issuecomment-1806937573) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🔓 Reopened issue [#14074](https://github.com/azerothcore/azerothcore-wotlk/issues/14074) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 💪 Opened PR [#17682](https://github.com/azerothcore/azerothcore-wotlk/pull/17682) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 💪 Opened PR [#17681](https://github.com/azerothcore/azerothcore-wotlk/pull/17681) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🔒 Closed issue [#38](https://github.com/azerothcore/mod-guildhouse/issues/38) in [azerothcore/mod-guildhouse](https://github.com/azerothcore/mod-guildhouse)
+2. 🎉 Merged PR [#9](https://github.com/azerothcore/mod-account-mounts/pull/9) in [azerothcore/mod-account-mounts](https://github.com/azerothcore/mod-account-mounts)
+3. 🎉 Merged PR [#927](https://github.com/azerothcore/wiki/pull/927) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+4. 🔒 Closed issue [#17605](https://github.com/azerothcore/azerothcore-wotlk/issues/17605) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🔒 Closed issue [#17595](https://github.com/azerothcore/azerothcore-wotlk/issues/17595) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
