@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17384](https://github.com/azerothcore/azerothcore-wotlk/issues/17384#issuecomment-1826803876) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#17646](https://github.com/azerothcore/azerothcore-wotlk/issues/17646#issuecomment-1826802730) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🔒 Closed issue [#17646](https://github.com/azerothcore/azerothcore-wotlk/issues/17646) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#17817](https://github.com/azerothcore/azerothcore-wotlk/issues/17817#issuecomment-1826801808) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🔒 Closed issue [#17817](https://github.com/azerothcore/azerothcore-wotlk/issues/17817) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 💪 Opened PR [#17862](https://github.com/azerothcore/azerothcore-wotlk/pull/17862) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🗣 Commented on [#17384](https://github.com/azerothcore/azerothcore-wotlk/issues/17384#issuecomment-1826803876) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#17646](https://github.com/azerothcore/azerothcore-wotlk/issues/17646#issuecomment-1826802730) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🔒 Closed issue [#17646](https://github.com/azerothcore/azerothcore-wotlk/issues/17646) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#17817](https://github.com/azerothcore/azerothcore-wotlk/issues/17817#issuecomment-1826801808) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
