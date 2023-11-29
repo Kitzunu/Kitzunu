@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17877](https://github.com/azerothcore/azerothcore-wotlk/issues/17877#issuecomment-1830915722) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#17834](https://github.com/azerothcore/azerothcore-wotlk/pull/17834#issuecomment-1830915166) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🎉 Merged PR [#17887](https://github.com/azerothcore/azerothcore-wotlk/pull/17887) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#17254](https://github.com/azerothcore/azerothcore-wotlk/pull/17254#issuecomment-1830890822) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. ❌ Closed PR [#17254](https://github.com/azerothcore/azerothcore-wotlk/pull/17254) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🎉 Merged PR [#17287](https://github.com/azerothcore/azerothcore-wotlk/pull/17287) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🗣 Commented on [#17877](https://github.com/azerothcore/azerothcore-wotlk/issues/17877#issuecomment-1830915722) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#17834](https://github.com/azerothcore/azerothcore-wotlk/pull/17834#issuecomment-1830915166) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🎉 Merged PR [#17887](https://github.com/azerothcore/azerothcore-wotlk/pull/17887) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#17254](https://github.com/azerothcore/azerothcore-wotlk/pull/17254#issuecomment-1830890822) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
