@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18191](https://github.com/azerothcore/azerothcore-wotlk/issues/18191#issuecomment-1899464576) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🔒 Closed issue [#18191](https://github.com/azerothcore/azerothcore-wotlk/issues/18191) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#18153](https://github.com/azerothcore/azerothcore-wotlk/pull/18153#issuecomment-1893637925) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#18153](https://github.com/azerothcore/azerothcore-wotlk/pull/18153#issuecomment-1893636254) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🎉 Merged PR [#18170](https://github.com/azerothcore/azerothcore-wotlk/pull/18170) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🔒 Closed issue [#18194](https://github.com/azerothcore/azerothcore-wotlk/issues/18194) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🗣 Commented on [#18194](https://github.com/azerothcore/azerothcore-wotlk/issues/18194#issuecomment-1900223947) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#18191](https://github.com/azerothcore/azerothcore-wotlk/issues/18191#issuecomment-1899464576) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🔒 Closed issue [#18191](https://github.com/azerothcore/azerothcore-wotlk/issues/18191) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#18153](https://github.com/azerothcore/azerothcore-wotlk/pull/18153#issuecomment-1893637925) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
