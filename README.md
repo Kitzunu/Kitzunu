@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#18207](https://github.com/azerothcore/azerothcore-wotlk/issues/18207) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🎉 Merged PR [#18216](https://github.com/azerothcore/azerothcore-wotlk/pull/18216) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🎉 Merged PR [#18209](https://github.com/azerothcore/azerothcore-wotlk/pull/18209) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#18207](https://github.com/azerothcore/azerothcore-wotlk/issues/18207#issuecomment-1902789665) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🗣 Commented on [#18207](https://github.com/azerothcore/azerothcore-wotlk/issues/18207#issuecomment-1902785636) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. ❗ Opened issue [#105](https://github.com/azerothcore/git-catalogue/issues/105) in [azerothcore/git-catalogue](https://github.com/azerothcore/git-catalogue)
+2. 🔒 Closed issue [#18207](https://github.com/azerothcore/azerothcore-wotlk/issues/18207) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🎉 Merged PR [#18216](https://github.com/azerothcore/azerothcore-wotlk/pull/18216) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🎉 Merged PR [#18209](https://github.com/azerothcore/azerothcore-wotlk/pull/18209) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#18207](https://github.com/azerothcore/azerothcore-wotlk/issues/18207#issuecomment-1902789665) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
