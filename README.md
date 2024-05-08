@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18864](https://github.com/azerothcore/azerothcore-wotlk/issues/18864#issuecomment-2100186710) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🔒 Closed issue [#18854](https://github.com/azerothcore/azerothcore-wotlk/issues/18854) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#18854](https://github.com/azerothcore/azerothcore-wotlk/issues/18854#issuecomment-2100183507) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#18869](https://github.com/azerothcore/azerothcore-wotlk/pull/18869#issuecomment-2100180037) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🗣 Commented on [#18866](https://github.com/azerothcore/azerothcore-wotlk/pull/18866#issuecomment-2099288595) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🎉 Merged PR [#957](https://github.com/azerothcore/wiki/pull/957) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+2. 🗣 Commented on [#18864](https://github.com/azerothcore/azerothcore-wotlk/issues/18864#issuecomment-2100186710) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🔒 Closed issue [#18854](https://github.com/azerothcore/azerothcore-wotlk/issues/18854) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#18854](https://github.com/azerothcore/azerothcore-wotlk/issues/18854#issuecomment-2100183507) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#18869](https://github.com/azerothcore/azerothcore-wotlk/pull/18869#issuecomment-2100180037) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
