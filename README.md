@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18691](https://github.com/azerothcore/azerothcore-wotlk/issues/18691#issuecomment-2102490599) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🔒 Closed issue [#18691](https://github.com/azerothcore/azerothcore-wotlk/issues/18691) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🔒 Closed issue [#18792](https://github.com/azerothcore/azerothcore-wotlk/issues/18792) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#18658](https://github.com/azerothcore/azerothcore-wotlk/issues/18658#issuecomment-2102489448) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🔒 Closed issue [#18658](https://github.com/azerothcore/azerothcore-wotlk/issues/18658) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🎉 Merged PR [#396](https://github.com/azerothcore/mod-progression-system/pull/396) in [azerothcore/mod-progression-system](https://github.com/azerothcore/mod-progression-system)
+2. 💪 Opened PR [#18990](https://github.com/azerothcore/azerothcore-wotlk/pull/18990) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🔒 Closed issue [#7084](https://github.com/chromiecraft/chromiecraft/issues/7084) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
+4. 🔒 Closed issue [#7083](https://github.com/chromiecraft/chromiecraft/issues/7083) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
+5. 🎉 Merged PR [#18981](https://github.com/azerothcore/azerothcore-wotlk/pull/18981) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
