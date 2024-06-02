@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18987](https://github.com/azerothcore/azerothcore-wotlk/issues/18987#issuecomment-2143784582) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#18990](https://github.com/azerothcore/azerothcore-wotlk/pull/18990#issuecomment-2143584404) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 💪 Opened PR [#18991](https://github.com/azerothcore/azerothcore-wotlk/pull/18991) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🎉 Merged PR [#396](https://github.com/azerothcore/mod-progression-system/pull/396) in [azerothcore/mod-progression-system](https://github.com/azerothcore/mod-progression-system)
-5. 💪 Opened PR [#18990](https://github.com/azerothcore/azerothcore-wotlk/pull/18990) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🗣 Commented on [#18993](https://github.com/azerothcore/azerothcore-wotlk/issues/18993#issuecomment-2143788384) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🔒 Closed issue [#18993](https://github.com/azerothcore/azerothcore-wotlk/issues/18993) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#18987](https://github.com/azerothcore/azerothcore-wotlk/issues/18987#issuecomment-2143784582) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#18990](https://github.com/azerothcore/azerothcore-wotlk/pull/18990#issuecomment-2143584404) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 💪 Opened PR [#18991](https://github.com/azerothcore/azerothcore-wotlk/pull/18991) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
