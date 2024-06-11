@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19033](https://github.com/azerothcore/azerothcore-wotlk/issues/19033#issuecomment-2156379587) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🔒 Closed issue [#19033](https://github.com/azerothcore/azerothcore-wotlk/issues/19033) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🔒 Closed issue [#7081](https://github.com/chromiecraft/chromiecraft/issues/7081) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
-4. 🔒 Closed issue [#7080](https://github.com/chromiecraft/chromiecraft/issues/7080) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
-5. 🔒 Closed issue [#7072](https://github.com/chromiecraft/chromiecraft/issues/7072) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
+1. 🎉 Merged PR [#19045](https://github.com/azerothcore/azerothcore-wotlk/pull/19045) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🗣 Commented on [#19033](https://github.com/azerothcore/azerothcore-wotlk/issues/19033#issuecomment-2156379587) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🔒 Closed issue [#19033](https://github.com/azerothcore/azerothcore-wotlk/issues/19033) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🔒 Closed issue [#7081](https://github.com/chromiecraft/chromiecraft/issues/7081) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
+5. 🔒 Closed issue [#7080](https://github.com/chromiecraft/chromiecraft/issues/7080) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
 <!--END_SECTION:activity-->
