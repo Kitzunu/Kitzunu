@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7107](https://github.com/chromiecraft/chromiecraft/issues/7107) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
-2. 🎉 Merged PR [#19069](https://github.com/azerothcore/azerothcore-wotlk/pull/19069) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🎉 Merged PR [#19070](https://github.com/azerothcore/azerothcore-wotlk/pull/19070) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🔒 Closed issue [#6897](https://github.com/chromiecraft/chromiecraft/issues/6897) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
-5. 🎉 Merged PR [#19077](https://github.com/azerothcore/azerothcore-wotlk/pull/19077) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🎉 Merged PR [#153](https://github.com/azerothcore/mod-transmog/pull/153) in [azerothcore/mod-transmog](https://github.com/azerothcore/mod-transmog)
+2. 🔒 Closed issue [#7107](https://github.com/chromiecraft/chromiecraft/issues/7107) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
+3. 🎉 Merged PR [#19069](https://github.com/azerothcore/azerothcore-wotlk/pull/19069) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🎉 Merged PR [#19070](https://github.com/azerothcore/azerothcore-wotlk/pull/19070) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🔒 Closed issue [#6897](https://github.com/chromiecraft/chromiecraft/issues/6897) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
 <!--END_SECTION:activity-->
