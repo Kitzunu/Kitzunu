@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13213](https://github.com/azerothcore/azerothcore-wotlk/issues/13213#issuecomment-2181536804) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🔒 Closed issue [#13213](https://github.com/azerothcore/azerothcore-wotlk/issues/13213) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#13213](https://github.com/azerothcore/azerothcore-wotlk/issues/13213#issuecomment-2181532329) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#19030](https://github.com/azerothcore/azerothcore-wotlk/issues/19030#issuecomment-2181500628) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🎉 Merged PR [#19026](https://github.com/azerothcore/azerothcore-wotlk/pull/19026) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🔒 Closed issue [#19053](https://github.com/azerothcore/azerothcore-wotlk/issues/19053) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🔒 Closed issue [#19103](https://github.com/azerothcore/azerothcore-wotlk/issues/19103) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#13213](https://github.com/azerothcore/azerothcore-wotlk/issues/13213#issuecomment-2181536804) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🔒 Closed issue [#13213](https://github.com/azerothcore/azerothcore-wotlk/issues/13213) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#13213](https://github.com/azerothcore/azerothcore-wotlk/issues/13213#issuecomment-2181532329) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
