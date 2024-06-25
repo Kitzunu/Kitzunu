@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19140](https://github.com/azerothcore/azerothcore-wotlk/pull/19140#issuecomment-2185320038) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#19140](https://github.com/azerothcore/azerothcore-wotlk/pull/19140#issuecomment-2185319997) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#19140](https://github.com/azerothcore/azerothcore-wotlk/pull/19140#issuecomment-2185319717) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🎉 Merged PR [#19134](https://github.com/azerothcore/azerothcore-wotlk/pull/19134) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🗣 Commented on [#19137](https://github.com/azerothcore/azerothcore-wotlk/issues/19137#issuecomment-2185073225) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🗣 Commented on [#19157](https://github.com/azerothcore/azerothcore-wotlk/issues/19157#issuecomment-2189199723) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🗣 Commented on [#19157](https://github.com/azerothcore/azerothcore-wotlk/issues/19157#issuecomment-2189198097) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🔒 Closed issue [#19157](https://github.com/azerothcore/azerothcore-wotlk/issues/19157) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#19140](https://github.com/azerothcore/azerothcore-wotlk/pull/19140#issuecomment-2185320038) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#19140](https://github.com/azerothcore/azerothcore-wotlk/pull/19140#issuecomment-2185319997) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
