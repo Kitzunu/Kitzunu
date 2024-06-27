@@ -20,9 +20,9 @@ I focus on WoW Emulation at [AzerothCore](https://Github.com/AzerothCore). Come 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19187](https://github.com/azerothcore/azerothcore-wotlk/issues/19187#issuecomment-2192627027) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#19187](https://github.com/azerothcore/azerothcore-wotlk/issues/19187#issuecomment-2192623028) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#19177](https://github.com/azerothcore/azerothcore-wotlk/pull/19177#issuecomment-2192618489) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#19178](https://github.com/azerothcore/azerothcore-wotlk/issues/19178#issuecomment-2192617230) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🗣 Commented on [#17843](https://github.com/azerothcore/azerothcore-wotlk/pull/17843#issuecomment-2192609492) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🗣 Commented on [#19190](https://github.com/azerothcore/azerothcore-wotlk/pull/19190#issuecomment-2195113734) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🎉 Merged PR [#19189](https://github.com/azerothcore/azerothcore-wotlk/pull/19189) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🎉 Merged PR [#19192](https://github.com/azerothcore/azerothcore-wotlk/pull/19192) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#18867](https://github.com/azerothcore/azerothcore-wotlk/pull/18867#issuecomment-2195101308) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🔒 Closed issue [#18832](https://github.com/azerothcore/azerothcore-wotlk/issues/18832) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
