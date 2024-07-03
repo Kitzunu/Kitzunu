@@ -25,9 +25,9 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19102](https://github.com/azerothcore/azerothcore-wotlk/pull/19102#issuecomment-2204874237) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#6017](https://github.com/azerothcore/azerothcore-wotlk/issues/6017#issuecomment-2204833765) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🔒 Closed issue [#6017](https://github.com/azerothcore/azerothcore-wotlk/issues/6017) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#1326](https://github.com/azerothcore/azerothcore-wotlk/issues/1326#issuecomment-2204783989) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🔒 Closed issue [#1326](https://github.com/azerothcore/azerothcore-wotlk/issues/1326) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🎉 Merged PR [#19261](https://github.com/azerothcore/azerothcore-wotlk/pull/19261) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🗣 Commented on [#19261](https://github.com/azerothcore/azerothcore-wotlk/pull/19261#issuecomment-2205651679) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#19102](https://github.com/azerothcore/azerothcore-wotlk/pull/19102#issuecomment-2205582778) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#19261](https://github.com/azerothcore/azerothcore-wotlk/pull/19261#issuecomment-2205578882) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 💪 Opened PR [#19261](https://github.com/azerothcore/azerothcore-wotlk/pull/19261) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
