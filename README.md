@@ -1,8 +1,17 @@
 ## Hey! I am [Kitzunu](https://Github.com/Kitzunu).
 
+<!--
 [![Kitzunu's Github stats](https://github-readme-stats.vercel.app/api?username=kitzunu&theme=github_dark&show_icons=true&number_format=long)](https://github.com/Kitzunu)
 
-[![Kitzunu's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitzunu&layout=compact&theme=github_dark)](https://github.com/Kitzunu)
+[![Kitzunu's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitzunu&layout=donut&theme=github_dark)](https://github.com/Kitzunu)
+-->
+
+<a href="https://github.com/Kitzunu">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kitzunu&theme=github_dark&show_icons=true&number_format=long" />
+</a>
+<a href="https://github.com/Kitzunu">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitzunu&layout=donut&theme=github_dark" />
+</a>
 
 ### What do I do?
 
