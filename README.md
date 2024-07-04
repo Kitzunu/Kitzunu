@@ -30,9 +30,9 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 3. 🗣 Commented on [#4471](https://github.com/chromiecraft/chromiecraft/issues/4471#issuecomment-2208887602) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
 4. 🗣 Commented on [#19183](https://github.com/azerothcore/azerothcore-wotlk/pull/19183#issuecomment-2208884665) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 5. 💪 Opened PR [#19271](https://github.com/azerothcore/azerothcore-wotlk/pull/19271) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-6. 
-7. 
-8. 
-9. 
-10. 
+6. 🗣 Commented on [#19268](https://github.com/azerothcore/azerothcore-wotlk/issues/19268#issuecomment-2208591812) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+7. 🗣 Commented on [#19263](https://github.com/azerothcore/azerothcore-wotlk/pull/19263#issuecomment-2207289424) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+8. 🎉 Merged PR [#182](https://github.com/azerothcore/mod-eluna/pull/182) in [azerothcore/mod-eluna](https://github.com/azerothcore/mod-eluna)
+9. 🗣 Commented on [#19263](https://github.com/azerothcore/azerothcore-wotlk/pull/19263#issuecomment-2206596778) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+10. 🗣 Commented on [#295](https://github.com/liyunfan1223/mod-playerbots/issues/295#issuecomment-2206234406) in [liyunfan1223/mod-playerbots](https://github.com/liyunfan1223/mod-playerbots)
 <!--END_SECTION:activity-->
