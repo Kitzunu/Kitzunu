@@ -30,4 +30,9 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 3. 🗣 Commented on [#4471](https://github.com/chromiecraft/chromiecraft/issues/4471#issuecomment-2208887602) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
 4. 🗣 Commented on [#19183](https://github.com/azerothcore/azerothcore-wotlk/pull/19183#issuecomment-2208884665) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 5. 💪 Opened PR [#19271](https://github.com/azerothcore/azerothcore-wotlk/pull/19271) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+6. 
+7. 
+8. 
+9. 
+10. 
 <!--END_SECTION:activity-->
