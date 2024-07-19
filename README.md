@@ -25,14 +25,14 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19437](https://github.com/azerothcore/azerothcore-wotlk/issues/19437#issuecomment-2238817021) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#19431](https://github.com/azerothcore/azerothcore-wotlk/pull/19431#issuecomment-2237643959) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 💪 Opened PR [#121](https://github.com/azerothcore/mod-cfbg/pull/121) in [azerothcore/mod-cfbg](https://github.com/azerothcore/mod-cfbg)
-4. 💪 Opened PR [#19430](https://github.com/azerothcore/azerothcore-wotlk/pull/19430) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🎉 Merged PR [#19411](https://github.com/azerothcore/azerothcore-wotlk/pull/19411) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-6. 🎉 Merged PR [#186](https://github.com/azerothcore/mod-autobalance/pull/186) in [azerothcore/mod-autobalance](https://github.com/azerothcore/mod-autobalance)
-7. 💪 Opened PR [#186](https://github.com/azerothcore/mod-autobalance/pull/186) in [azerothcore/mod-autobalance](https://github.com/azerothcore/mod-autobalance)
-8. 🗣 Commented on [#19413](https://github.com/azerothcore/azerothcore-wotlk/pull/19413#issuecomment-2237408468) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-9. 💪 Opened PR [#185](https://github.com/azerothcore/mod-autobalance/pull/185) in [azerothcore/mod-autobalance](https://github.com/azerothcore/mod-autobalance)
-10. 🗣 Commented on [#19413](https://github.com/azerothcore/azerothcore-wotlk/pull/19413#issuecomment-2237364666) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🗣 Commented on [#19418](https://github.com/azerothcore/azerothcore-wotlk/pull/19418#issuecomment-2238868673) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🔒 Closed issue [#7209](https://github.com/chromiecraft/chromiecraft/issues/7209) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
+3. 🔒 Closed issue [#7210](https://github.com/chromiecraft/chromiecraft/issues/7210) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
+4. 🎉 Merged PR [#19432](https://github.com/azerothcore/azerothcore-wotlk/pull/19432) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🔒 Closed issue [#19312](https://github.com/azerothcore/azerothcore-wotlk/issues/19312) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+6. 🔒 Closed issue [#7164](https://github.com/chromiecraft/chromiecraft/issues/7164) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
+7. 🎉 Merged PR [#19435](https://github.com/azerothcore/azerothcore-wotlk/pull/19435) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+8. 🔒 Closed issue [#7127](https://github.com/chromiecraft/chromiecraft/issues/7127) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
+9. 🔒 Closed issue [#7134](https://github.com/chromiecraft/chromiecraft/issues/7134) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
+10. 🔒 Closed issue [#7128](https://github.com/chromiecraft/chromiecraft/issues/7128) in [chromiecraft/chromiecraft](https://github.com/chromiecraft/chromiecraft)
 <!--END_SECTION:activity-->
