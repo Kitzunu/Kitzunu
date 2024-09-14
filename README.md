@@ -25,14 +25,14 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19931](https://github.com/azerothcore/azerothcore-wotlk/issues/19931#issuecomment-2351128206) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🔒 Closed issue [#19931](https://github.com/azerothcore/azerothcore-wotlk/issues/19931) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#19824](https://github.com/azerothcore/azerothcore-wotlk/pull/19824#issuecomment-2351115930) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#19896](https://github.com/azerothcore/azerothcore-wotlk/issues/19896#issuecomment-2335269825) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🗣 Commented on [#19838](https://github.com/azerothcore/azerothcore-wotlk/pull/19838#issuecomment-2323324183) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-6. 💪 Opened PR [#125](https://github.com/azerothcore/mod-cfbg/pull/125) in [azerothcore/mod-cfbg](https://github.com/azerothcore/mod-cfbg)
-7. 🗣 Commented on [#19824](https://github.com/azerothcore/azerothcore-wotlk/pull/19824#issuecomment-2323323737) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-8. 💪 Opened PR [#19838](https://github.com/azerothcore/azerothcore-wotlk/pull/19838) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-9. 💪 Opened PR [#19837](https://github.com/azerothcore/azerothcore-wotlk/pull/19837) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-10. 🗣 Commented on [#19835](https://github.com/azerothcore/azerothcore-wotlk/pull/19835#issuecomment-2323286980) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 💪 Opened PR [#19970](https://github.com/azerothcore/azerothcore-wotlk/pull/19970) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🗣 Commented on [#19931](https://github.com/azerothcore/azerothcore-wotlk/issues/19931#issuecomment-2351128206) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🔒 Closed issue [#19931](https://github.com/azerothcore/azerothcore-wotlk/issues/19931) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#19824](https://github.com/azerothcore/azerothcore-wotlk/pull/19824#issuecomment-2351115930) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#19896](https://github.com/azerothcore/azerothcore-wotlk/issues/19896#issuecomment-2335269825) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+6. 🗣 Commented on [#19838](https://github.com/azerothcore/azerothcore-wotlk/pull/19838#issuecomment-2323324183) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+7. 💪 Opened PR [#125](https://github.com/azerothcore/mod-cfbg/pull/125) in [azerothcore/mod-cfbg](https://github.com/azerothcore/mod-cfbg)
+8. 🗣 Commented on [#19824](https://github.com/azerothcore/azerothcore-wotlk/pull/19824#issuecomment-2323323737) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+9. 💪 Opened PR [#19838](https://github.com/azerothcore/azerothcore-wotlk/pull/19838) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+10. 💪 Opened PR [#19837](https://github.com/azerothcore/azerothcore-wotlk/pull/19837) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
