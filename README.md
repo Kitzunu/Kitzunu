@@ -25,14 +25,14 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20029](https://github.com/azerothcore/azerothcore-wotlk/issues/20029#issuecomment-2372066092) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#20013](https://github.com/azerothcore/azerothcore-wotlk/pull/20013#issuecomment-2368807615) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#20013](https://github.com/azerothcore/azerothcore-wotlk/pull/20013#issuecomment-2366924890) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#20012](https://github.com/azerothcore/azerothcore-wotlk/pull/20012#issuecomment-2366425532) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🗣 Commented on [#20013](https://github.com/azerothcore/azerothcore-wotlk/pull/20013#issuecomment-2366411045) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-6. 💪 Opened PR [#9](https://github.com/azerothcore/mod-chat-transmitter/pull/9) in [azerothcore/mod-chat-transmitter](https://github.com/azerothcore/mod-chat-transmitter)
-7. 💪 Opened PR [#20013](https://github.com/azerothcore/azerothcore-wotlk/pull/20013) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-8. 💪 Opened PR [#20012](https://github.com/azerothcore/azerothcore-wotlk/pull/20012) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-9. 🗣 Commented on [#20010](https://github.com/azerothcore/azerothcore-wotlk/issues/20010#issuecomment-2365308274) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-10. 🗣 Commented on [#20006](https://github.com/azerothcore/azerothcore-wotlk/issues/20006#issuecomment-2365301554) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🎉 Merged PR [#1005](https://github.com/azerothcore/wiki/pull/1005) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+2. 🗣 Commented on [#20029](https://github.com/azerothcore/azerothcore-wotlk/issues/20029#issuecomment-2372066092) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#20013](https://github.com/azerothcore/azerothcore-wotlk/pull/20013#issuecomment-2368807615) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#20013](https://github.com/azerothcore/azerothcore-wotlk/pull/20013#issuecomment-2366924890) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#20012](https://github.com/azerothcore/azerothcore-wotlk/pull/20012#issuecomment-2366425532) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+6. 🗣 Commented on [#20013](https://github.com/azerothcore/azerothcore-wotlk/pull/20013#issuecomment-2366411045) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+7. 💪 Opened PR [#9](https://github.com/azerothcore/mod-chat-transmitter/pull/9) in [azerothcore/mod-chat-transmitter](https://github.com/azerothcore/mod-chat-transmitter)
+8. 💪 Opened PR [#20013](https://github.com/azerothcore/azerothcore-wotlk/pull/20013) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+9. 💪 Opened PR [#20012](https://github.com/azerothcore/azerothcore-wotlk/pull/20012) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+10. 🗣 Commented on [#20010](https://github.com/azerothcore/azerothcore-wotlk/issues/20010#issuecomment-2365308274) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
