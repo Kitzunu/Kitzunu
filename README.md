@@ -25,14 +25,14 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#21195](https://github.com/azerothcore/azerothcore-wotlk/issues/21195) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🎉 Merged PR [#21469](https://github.com/azerothcore/azerothcore-wotlk/pull/21469) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#21473](https://github.com/azerothcore/azerothcore-wotlk/pull/21473#issuecomment-2661530927) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🎉 Merged PR [#261](https://github.com/azerothcore/mod-eluna/pull/261) in [azerothcore/mod-eluna](https://github.com/azerothcore/mod-eluna)
-5. 🎉 Merged PR [#203](https://github.com/azerothcore/mod-autobalance/pull/203) in [azerothcore/mod-autobalance](https://github.com/azerothcore/mod-autobalance)
-6. 🎉 Merged PR [#14](https://github.com/azerothcore/mod-multi-client-check/pull/14) in [azerothcore/mod-multi-client-check](https://github.com/azerothcore/mod-multi-client-check)
-7. 💪 Opened PR [#21473](https://github.com/azerothcore/azerothcore-wotlk/pull/21473) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-8. 🔒 Closed issue [#2](https://github.com/KitzunuOrg/help/issues/2) in [KitzunuOrg/help](https://github.com/KitzunuOrg/help)
-9. ❗ Opened issue [#2](https://github.com/KitzunuOrg/help/issues/2) in [KitzunuOrg/help](https://github.com/KitzunuOrg/help)
-10. ❗ Opened issue [#9](https://github.com/KitzunuOrg/nothing-to-see/issues/9) in [KitzunuOrg/nothing-to-see](https://github.com/KitzunuOrg/nothing-to-see)
+1. 🎉 Merged PR [#21467](https://github.com/azerothcore/azerothcore-wotlk/pull/21467) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🔒 Closed issue [#21195](https://github.com/azerothcore/azerothcore-wotlk/issues/21195) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🎉 Merged PR [#21469](https://github.com/azerothcore/azerothcore-wotlk/pull/21469) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🗣 Commented on [#21473](https://github.com/azerothcore/azerothcore-wotlk/pull/21473#issuecomment-2661530927) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🎉 Merged PR [#261](https://github.com/azerothcore/mod-eluna/pull/261) in [azerothcore/mod-eluna](https://github.com/azerothcore/mod-eluna)
+6. 🎉 Merged PR [#203](https://github.com/azerothcore/mod-autobalance/pull/203) in [azerothcore/mod-autobalance](https://github.com/azerothcore/mod-autobalance)
+7. 🎉 Merged PR [#14](https://github.com/azerothcore/mod-multi-client-check/pull/14) in [azerothcore/mod-multi-client-check](https://github.com/azerothcore/mod-multi-client-check)
+8. 💪 Opened PR [#21473](https://github.com/azerothcore/azerothcore-wotlk/pull/21473) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+9. 🔒 Closed issue [#2](https://github.com/KitzunuOrg/help/issues/2) in [KitzunuOrg/help](https://github.com/KitzunuOrg/help)
+10. ❗ Opened issue [#2](https://github.com/KitzunuOrg/help/issues/2) in [KitzunuOrg/help](https://github.com/KitzunuOrg/help)
 <!--END_SECTION:activity-->
