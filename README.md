@@ -25,14 +25,14 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1065](https://github.com/azerothcore/wiki/issues/1065#issuecomment-2781333923) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-2. 🔒 Closed issue [#1065](https://github.com/azerothcore/wiki/issues/1065) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-3. 🔒 Closed issue [#1064](https://github.com/azerothcore/wiki/issues/1064) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-4. 🗣 Commented on [#21793](https://github.com/azerothcore/azerothcore-wotlk/pull/21793#issuecomment-2763255160) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🗣 Commented on [#21793](https://github.com/azerothcore/azerothcore-wotlk/pull/21793#issuecomment-2763230314) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-6. 🗣 Commented on [#21537](https://github.com/azerothcore/azerothcore-wotlk/pull/21537#issuecomment-2734424157) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-7. 🗣 Commented on [#21652](https://github.com/azerothcore/azerothcore-wotlk/pull/21652#issuecomment-2734422798) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-8. 🗣 Commented on [#1060](https://github.com/azerothcore/wiki/issues/1060#issuecomment-2730712168) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-9. 🔒 Closed issue [#1060](https://github.com/azerothcore/wiki/issues/1060) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-10. 🎉 Merged PR [#1063](https://github.com/azerothcore/wiki/pull/1063) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+1. 🗣 Commented on [#21866](https://github.com/azerothcore/azerothcore-wotlk/issues/21866#issuecomment-2781481664) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. 🔒 Closed issue [#21866](https://github.com/azerothcore/azerothcore-wotlk/issues/21866) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#1065](https://github.com/azerothcore/wiki/issues/1065#issuecomment-2781333923) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+4. 🔒 Closed issue [#1065](https://github.com/azerothcore/wiki/issues/1065) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+5. 🔒 Closed issue [#1064](https://github.com/azerothcore/wiki/issues/1064) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+6. 🗣 Commented on [#21793](https://github.com/azerothcore/azerothcore-wotlk/pull/21793#issuecomment-2763255160) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+7. 🗣 Commented on [#21793](https://github.com/azerothcore/azerothcore-wotlk/pull/21793#issuecomment-2763230314) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+8. 🗣 Commented on [#21537](https://github.com/azerothcore/azerothcore-wotlk/pull/21537#issuecomment-2734424157) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+9. 🗣 Commented on [#21652](https://github.com/azerothcore/azerothcore-wotlk/pull/21652#issuecomment-2734422798) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+10. 🗣 Commented on [#1060](https://github.com/azerothcore/wiki/issues/1060#issuecomment-2730712168) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 <!--END_SECTION:activity-->
