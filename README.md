@@ -26,12 +26,12 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#966](https://github.com/azerothcore/wiki/issues/966) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-2. 🗣 Commented on [#1104](https://github.com/azerothcore/wiki/pull/1104#issuecomment-3282244021) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-3. ❌ Closed PR [#1104](undefined) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-4. 🗣 Commented on [#1098](https://github.com/azerothcore/wiki/pull/1098#issuecomment-3282237935) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-5. 🔒 Closed issue [#177](https://github.com/azerothcore/wiki/issues/177) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-6. 🔒 Closed issue [#176](https://github.com/azerothcore/wiki/issues/176) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-7. 🗣 Commented on [#1095](https://github.com/azerothcore/wiki/pull/1095#issuecomment-3282180353) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+2. 🎉 Merged PR [#1105](https://github.com/azerothcore/wiki/pull/1105) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+3. 🗣 Commented on [#1104](https://github.com/azerothcore/wiki/pull/1104#issuecomment-3282244021) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+4. ❌ Closed PR [#1104](https://github.com/azerothcore/wiki/pull/1104) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+5. 🗣 Commented on [#1098](https://github.com/azerothcore/wiki/pull/1098#issuecomment-3282237935) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+6. 🔒 Closed issue [#177](https://github.com/azerothcore/wiki/issues/177) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+7. 🔒 Closed issue [#176](https://github.com/azerothcore/wiki/issues/176) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 8. 🎉 Merged PR [#1097](https://github.com/azerothcore/wiki/pull/1097) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 9. 🗣 Commented on [#1095](https://github.com/azerothcore/wiki/pull/1095#issuecomment-3282180353) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 10. 🎉 Merged PR [#1100](https://github.com/azerothcore/wiki/pull/1100) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
