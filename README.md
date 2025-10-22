@@ -25,12 +25,12 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#23355](undefined) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 💪 Opened PR [#23355](undefined) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🔒 Closed issue [#23328](https://github.com/azerothcore/azerothcore-wotlk/issues/23328) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#23195](https://github.com/azerothcore/azerothcore-wotlk/issues/23195#issuecomment-3419847519) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🔒 Closed issue [#23195](https://github.com/azerothcore/azerothcore-wotlk/issues/23195) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-6. 🔒 Closed issue [#177](https://github.com/azerothcore/wiki/issues/177) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+1. 💪 Opened PR [#23357](undefined) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. ❌ Labeled PR [#23355](undefined) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 💪 Opened PR [#23355](undefined) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🔒 Closed issue [#23328](https://github.com/azerothcore/azerothcore-wotlk/issues/23328) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+5. 🗣 Commented on [#23195](https://github.com/azerothcore/azerothcore-wotlk/issues/23195#issuecomment-3419847519) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+6. 🔒 Closed issue [#23195](https://github.com/azerothcore/azerothcore-wotlk/issues/23195) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 7. 🔒 Closed issue [#176](https://github.com/azerothcore/wiki/issues/176) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 8. 🎉 Merged PR [#1097](https://github.com/azerothcore/wiki/pull/1097) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 9. 🗣 Commented on [#1095](https://github.com/azerothcore/wiki/pull/1095#issuecomment-3282180353) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
