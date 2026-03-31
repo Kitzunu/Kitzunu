@@ -27,14 +27,14 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/Kitzunu/Dashboard/issues/16) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-2. 🎉 Merged PR [#25316](https://github.com/azerothcore/azerothcore-wotlk/pull/25316) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🔒 Closed issue [#13](https://github.com/Kitzunu/Dashboard/issues/13) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-4. 🔒 Closed issue [#4](https://github.com/Kitzunu/Dashboard/issues/4) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-5. 🔒 Closed issue [#15](https://github.com/Kitzunu/Dashboard/issues/15) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-6. 🗣 Commented on [#25316](https://github.com/azerothcore/azerothcore-wotlk/pull/25316#issuecomment-4157911800) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-7. 🔒 Closed issue [#21](https://github.com/Kitzunu/Dashboard/issues/21) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-8. 🗣 Commented on [#25316](https://github.com/azerothcore/azerothcore-wotlk/pull/25316#issuecomment-4157875472) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-9. ❗ Opened issue [#23](https://github.com/Kitzunu/Dashboard/issues/23) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-10. 🗣 Commented on [#16](https://github.com/Kitzunu/Dashboard/issues/16#issuecomment-4157350492) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+1. 🔒 Closed issue [#9](https://github.com/Kitzunu/Dashboard/issues/9) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+2. 🔒 Closed issue [#16](https://github.com/Kitzunu/Dashboard/issues/16) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+3. 🎉 Merged PR [#25316](https://github.com/azerothcore/azerothcore-wotlk/pull/25316) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 🔒 Closed issue [#13](https://github.com/Kitzunu/Dashboard/issues/13) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+5. 🔒 Closed issue [#4](https://github.com/Kitzunu/Dashboard/issues/4) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+6. 🔒 Closed issue [#15](https://github.com/Kitzunu/Dashboard/issues/15) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+7. 🗣 Commented on [#25316](https://github.com/azerothcore/azerothcore-wotlk/pull/25316#issuecomment-4157911800) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+8. 🔒 Closed issue [#21](https://github.com/Kitzunu/Dashboard/issues/21) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+9. 🗣 Commented on [#25316](https://github.com/azerothcore/azerothcore-wotlk/pull/25316#issuecomment-4157875472) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+10. ❗ Opened issue [#23](https://github.com/Kitzunu/Dashboard/issues/23) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
 <!--END_SECTION:activity-->
