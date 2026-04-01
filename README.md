@@ -27,14 +27,14 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#28](https://github.com/Kitzunu/Dashboard/issues/28) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-2. ❗ Opened issue [#27](https://github.com/Kitzunu/Dashboard/issues/27) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-3. ❗ Opened issue [#26](https://github.com/Kitzunu/Dashboard/issues/26) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-4. ❗ Opened issue [#25](https://github.com/Kitzunu/Dashboard/issues/25) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-5. ❗ Opened issue [#24](https://github.com/Kitzunu/Dashboard/issues/24) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-6. ℹ️ Labeled PR [#25329](https://github.com/azerothcore/azerothcore-wotlk/pull/25329) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-7. ℹ️ Labeled PR [#25329](https://github.com/azerothcore/azerothcore-wotlk/pull/25329) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-8. 🗣 Commented on [#25329](https://github.com/azerothcore/azerothcore-wotlk/pull/25329#issuecomment-4164682203) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-9. 💪 Opened PR [#25329](https://github.com/azerothcore/azerothcore-wotlk/pull/25329) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-10. 🔒 Closed issue [#9](https://github.com/Kitzunu/Dashboard/issues/9) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+1. 🗣 Commented on [#24](https://github.com/Kitzunu/Dashboard/issues/24#issuecomment-4171477854) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+2. 🔒 Closed issue [#24](https://github.com/Kitzunu/Dashboard/issues/24) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+3. 🔒 Closed issue [#26](https://github.com/Kitzunu/Dashboard/issues/26) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+4. 🔒 Closed issue [#27](https://github.com/Kitzunu/Dashboard/issues/27) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+5. 🔒 Closed issue [#28](https://github.com/Kitzunu/Dashboard/issues/28) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+6. ❗ Opened issue [#28](https://github.com/Kitzunu/Dashboard/issues/28) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+7. ❗ Opened issue [#27](https://github.com/Kitzunu/Dashboard/issues/27) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+8. ❗ Opened issue [#26](https://github.com/Kitzunu/Dashboard/issues/26) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+9. ❗ Opened issue [#25](https://github.com/Kitzunu/Dashboard/issues/25) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+10. ❗ Opened issue [#24](https://github.com/Kitzunu/Dashboard/issues/24) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
 <!--END_SECTION:activity-->
