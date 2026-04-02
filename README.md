@@ -27,14 +27,14 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/Kitzunu/Dashboard/issues/10) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-2. 💪 Opened PR [#35](https://github.com/Kitzunu/Dashboard/pull/35) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-3. 🔒 Closed issue [#34](https://github.com/Kitzunu/Dashboard/issues/34) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-4. 🔒 Closed issue [#32](https://github.com/Kitzunu/Dashboard/issues/32) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-5. ❗ Opened issue [#34](https://github.com/Kitzunu/Dashboard/issues/34) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-6. 🔒 Closed issue [#31](https://github.com/Kitzunu/Dashboard/issues/31) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-7. 🔒 Closed issue [#29](https://github.com/Kitzunu/Dashboard/issues/29) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-8. 🔒 Closed issue [#20](https://github.com/Kitzunu/Dashboard/issues/20) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-9. 🔒 Closed issue [#33](https://github.com/Kitzunu/Dashboard/issues/33) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-10. 🔒 Closed issue [#30](https://github.com/Kitzunu/Dashboard/issues/30) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+1. 🔒 Closed issue [#23](https://github.com/Kitzunu/Dashboard/issues/23) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+2. 🎉 Merged PR [#35](https://github.com/Kitzunu/Dashboard/pull/35) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+3. 🔒 Closed issue [#10](https://github.com/Kitzunu/Dashboard/issues/10) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+4. 💪 Opened PR [#35](https://github.com/Kitzunu/Dashboard/pull/35) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+5. 🔒 Closed issue [#34](https://github.com/Kitzunu/Dashboard/issues/34) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+6. 🔒 Closed issue [#32](https://github.com/Kitzunu/Dashboard/issues/32) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+7. ❗ Opened issue [#34](https://github.com/Kitzunu/Dashboard/issues/34) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+8. 🔒 Closed issue [#31](https://github.com/Kitzunu/Dashboard/issues/31) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+9. 🔒 Closed issue [#29](https://github.com/Kitzunu/Dashboard/issues/29) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+10. 🔒 Closed issue [#20](https://github.com/Kitzunu/Dashboard/issues/20) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
 <!--END_SECTION:activity-->
