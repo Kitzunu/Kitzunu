@@ -27,14 +27,14 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/Kitzunu/Dashboard/issues/5) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-2. 🔒 Closed issue [#8](https://github.com/Kitzunu/Dashboard/issues/8) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-3. 🔒 Closed issue [#40](https://github.com/Kitzunu/Dashboard/issues/40) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-4. 🔒 Closed issue [#42](https://github.com/Kitzunu/Dashboard/issues/42) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-5. 🗣 Commented on [#42](https://github.com/Kitzunu/Dashboard/issues/42#issuecomment-4186931562) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
-6. 🔒 Closed issue [#1186](https://github.com/azerothcore/wiki/issues/1186) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-7. 🔒 Closed issue [#1187](https://github.com/azerothcore/wiki/issues/1187) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-8. ℹ️ Assigned issue [#1186](https://github.com/azerothcore/wiki/issues/1186) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+1. 🔒 Closed issue [#12](https://github.com/Kitzunu/Dashboard/issues/12) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+2. 🔒 Closed issue [#5](https://github.com/Kitzunu/Dashboard/issues/5) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+3. 🔒 Closed issue [#8](https://github.com/Kitzunu/Dashboard/issues/8) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+4. 🔒 Closed issue [#40](https://github.com/Kitzunu/Dashboard/issues/40) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+5. 🔒 Closed issue [#42](https://github.com/Kitzunu/Dashboard/issues/42) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+6. 🗣 Commented on [#42](https://github.com/Kitzunu/Dashboard/issues/42#issuecomment-4186931562) in [Kitzunu/Dashboard](https://github.com/Kitzunu/Dashboard)
+7. 🔒 Closed issue [#1186](https://github.com/azerothcore/wiki/issues/1186) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+8. 🔒 Closed issue [#1187](https://github.com/azerothcore/wiki/issues/1187) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 9. ℹ️ Assigned issue [#1186](https://github.com/azerothcore/wiki/issues/1186) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-10. ℹ️ Assigned issue [#1187](https://github.com/azerothcore/wiki/issues/1187) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+10. ℹ️ Assigned issue [#1186](https://github.com/azerothcore/wiki/issues/1186) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 <!--END_SECTION:activity-->
