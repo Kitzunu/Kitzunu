@@ -27,14 +27,14 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1099](https://github.com/azerothcore/wiki/issues/1099) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-2. 🗣 Commented on [#1099](https://github.com/azerothcore/wiki/issues/1099#issuecomment-4457396436) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-3. 🔒 Closed issue [#1205](https://github.com/azerothcore/wiki/issues/1205) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-4. ℹ️ Assigned issue [#1205](https://github.com/azerothcore/wiki/issues/1205) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-5. ℹ️ Assigned issue [#1205](https://github.com/azerothcore/wiki/issues/1205) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-6. 🔒 Closed issue [#1203](https://github.com/azerothcore/wiki/issues/1203) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-7. ℹ️ Assigned issue [#1203](https://github.com/azerothcore/wiki/issues/1203) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-8. ℹ️ Assigned issue [#1203](https://github.com/azerothcore/wiki/issues/1203) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-9. 🔒 Closed issue [#1202](https://github.com/azerothcore/wiki/issues/1202) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-10. ❌ Closed PR [#1201](https://github.com/azerothcore/wiki/pull/1201) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+1. 🔒 Closed issue [#1208](https://github.com/azerothcore/wiki/issues/1208) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+2. ℹ️ Assigned issue [#1208](https://github.com/azerothcore/wiki/issues/1208) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+3. ℹ️ Assigned issue [#1208](https://github.com/azerothcore/wiki/issues/1208) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+4. 🔒 Closed issue [#1099](https://github.com/azerothcore/wiki/issues/1099) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+5. 🗣 Commented on [#1099](https://github.com/azerothcore/wiki/issues/1099#issuecomment-4457396436) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+6. 🔒 Closed issue [#1205](https://github.com/azerothcore/wiki/issues/1205) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+7. ℹ️ Assigned issue [#1205](https://github.com/azerothcore/wiki/issues/1205) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+8. ℹ️ Assigned issue [#1205](https://github.com/azerothcore/wiki/issues/1205) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+9. 🔒 Closed issue [#1203](https://github.com/azerothcore/wiki/issues/1203) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+10. ℹ️ Assigned issue [#1203](https://github.com/azerothcore/wiki/issues/1203) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 <!--END_SECTION:activity-->
