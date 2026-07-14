@@ -27,14 +27,14 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26567](https://github.com/azerothcore/azerothcore-wotlk/pull/26567#issuecomment-4963996422) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-2. 🗣 Commented on [#26592](https://github.com/azerothcore/azerothcore-wotlk/pull/26592#issuecomment-4963991116) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-3. 🗣 Commented on [#26592](https://github.com/azerothcore/azerothcore-wotlk/pull/26592#issuecomment-4963821307) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-4. 🗣 Commented on [#26339](https://github.com/azerothcore/azerothcore-wotlk/pull/26339#issuecomment-4957974645) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. 🗣 Commented on [#26339](https://github.com/azerothcore/azerothcore-wotlk/pull/26339#issuecomment-4957932567) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-6. ❌ Closed PR [#26577](https://github.com/azerothcore/azerothcore-wotlk/pull/26577) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-7. 🔒 Closed issue [#23831](https://github.com/azerothcore/azerothcore-wotlk/issues/23831) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-8. 🔒 Closed issue [#26558](https://github.com/azerothcore/azerothcore-wotlk/issues/26558) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-9. 🔒 Closed issue [#26346](https://github.com/azerothcore/azerothcore-wotlk/issues/26346) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-10. 🔒 Closed issue [#25040](https://github.com/azerothcore/azerothcore-wotlk/issues/25040) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🗣 Commented on [#26371](https://github.com/azerothcore/azerothcore-wotlk/pull/26371#issuecomment-4968290490) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+2. ℹ️ Labeled PR [#26367](https://github.com/azerothcore/azerothcore-wotlk/pull/26367) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+3. 🗣 Commented on [#26404](https://github.com/azerothcore/azerothcore-wotlk/pull/26404#issuecomment-4968264821) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+4. 💪 Opened PR [#15](https://github.com/azerothcore/mod-instanced-worldbosses/pull/15) in [azerothcore/mod-instanced-worldbosses](https://github.com/azerothcore/mod-instanced-worldbosses)
+5. 💪 Opened PR [#23](https://github.com/azerothcore/mod-guild-zone-system/pull/23) in [azerothcore/mod-guild-zone-system](https://github.com/azerothcore/mod-guild-zone-system)
+6. 💪 Opened PR [#82](https://github.com/azerothcore/mod-zone-difficulty/pull/82) in [azerothcore/mod-zone-difficulty](https://github.com/azerothcore/mod-zone-difficulty)
+7. 🗣 Commented on [#26567](https://github.com/azerothcore/azerothcore-wotlk/pull/26567#issuecomment-4963996422) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+8. 🗣 Commented on [#26592](https://github.com/azerothcore/azerothcore-wotlk/pull/26592#issuecomment-4963991116) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+9. 🗣 Commented on [#26592](https://github.com/azerothcore/azerothcore-wotlk/pull/26592#issuecomment-4963821307) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+10. 🗣 Commented on [#26339](https://github.com/azerothcore/azerothcore-wotlk/pull/26339#issuecomment-4957974645) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 <!--END_SECTION:activity-->
