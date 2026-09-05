@@ -27,12 +27,12 @@ I focus on WoW Emulation at [AzerothCore](https://github.com/AzerothCore). Join 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1257](https://github.com/azerothcore/wiki/issues/1257) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-2. ℹ️ Assigned issue [#1257](https://github.com/azerothcore/wiki/issues/1257) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-3. ℹ️ Assigned issue [#1257](https://github.com/azerothcore/wiki/issues/1257) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
-4. 🎉 Merged PR [#26883](https://github.com/azerothcore/azerothcore-wotlk/pull/26883) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-5. ℹ️ Labeled PR [#26883](https://github.com/azerothcore/azerothcore-wotlk/pull/26883) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
-6. 💪 Opened PR [#26883](https://github.com/azerothcore/azerothcore-wotlk/pull/26883) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
+1. 🔒 Closed issue [#1262](https://github.com/azerothcore/wiki/issues/1262) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+2. ℹ️ Assigned issue [#1262](https://github.com/azerothcore/wiki/issues/1262) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+3. ℹ️ Assigned issue [#1262](https://github.com/azerothcore/wiki/issues/1262) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+4. 🔒 Closed issue [#1257](https://github.com/azerothcore/wiki/issues/1257) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+5. ℹ️ Assigned issue [#1257](https://github.com/azerothcore/wiki/issues/1257) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
+6. ℹ️ Assigned issue [#1257](https://github.com/azerothcore/wiki/issues/1257) in [azerothcore/wiki](https://github.com/azerothcore/wiki)
 7. 🔒 Closed issue [#26378](https://github.com/azerothcore/azerothcore-wotlk/issues/26378) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 8. 🔒 Closed issue [#25865](https://github.com/azerothcore/azerothcore-wotlk/issues/25865) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
 9. 🔒 Closed issue [#25803](https://github.com/azerothcore/azerothcore-wotlk/issues/25803) in [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk)
